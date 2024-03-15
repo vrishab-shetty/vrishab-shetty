@@ -37,22 +37,26 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 
 
 </br>
+
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
 </br>
+
 ![NodeJs](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 ![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
 
 </br>
+
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Gradle](https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg)
 
 </br>
+
 [Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg)
 [Packet](https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg)
 [AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
