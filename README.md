@@ -7,7 +7,7 @@ Hi there, Vrishab 👋
 I'm a Software Engineer!
 </h2> 
 
-I aspire to be a software developer/programmer. I love doing competitive coding on different platforms like <a href="https://codeforces.com/profile/grivarvicky">Codeforces <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Vrishab Shetty | Codeforces" width="10px" heigth="10px"> , <a href="">CodeChef <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Vrishab Shetty | CodeChef" width="10px" heigth="10px">.
+I aspire to be a one of the greatest software developer/programmer. I love doing competitive coding on different platforms like <a href="https://codeforces.com/profile/grivarvicky">Codeforces <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Vrishab Shetty | Codeforces" width="10px" heigth="10px"> , <a href="">CodeChef <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Vrishab Shetty | CodeChef" width="10px" heigth="10px">.
 
 ### 🤝 Connect with me:
 <a href="https://linkedin.com/in/vrishab-shetty/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vrishab Shetty | LinkedIn" width="21px"/></a>
