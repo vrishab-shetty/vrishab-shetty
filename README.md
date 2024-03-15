@@ -34,8 +34,6 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 ![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 
-
-
 </br>
 
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
@@ -64,7 +62,4 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 [Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
 
-
-
-
-
+</br>
