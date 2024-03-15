@@ -1,6 +1,6 @@
   
 <h3 align="center">
-Hi there, Vrishab 👋
+Hi, Vrishab here👋
 </h3>
 
 <h2 align="center">
