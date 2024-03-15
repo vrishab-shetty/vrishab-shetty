@@ -52,10 +52,11 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 ![Gradle](https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg)
+[Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
 
 </br>
 
-[Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+
 [Packet](https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg)
 [AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
 [GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
