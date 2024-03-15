@@ -28,40 +28,40 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 
 ## 💼 Technical Skills
 
-![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
-![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
-![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
+![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 
 
 
 </br>
 
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
-![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 
 </br>
 
-![NodeJs](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
+![NodeJs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
-![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
+![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 
 </br>
 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
-![Gradle](https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+![Gradle](https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg)
 
 </br>
 
-[Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg)
-[Packet](https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg)
-[AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
-[GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg)
-[Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
+[Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+[Packet](https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg)
+[AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+[GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+[Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
 
 
