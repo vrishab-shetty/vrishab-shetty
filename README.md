@@ -56,8 +56,10 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 
 </br>
 
-[Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
-[Packet](https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg)
-[AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
-[GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
-[Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+![Packet](https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg)
+![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+
+</br>
