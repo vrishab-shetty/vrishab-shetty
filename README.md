@@ -18,12 +18,12 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 
 ## 🔭 I'm currently working on
 
-- Cloud Project
+- Spring Boot Application
 
 
 ## 🌱 I'm currently learning
 
-- Network Structure and Cloud Computing
+- Spring and Next.js
 
 
 ## 💼 Technical Skills
@@ -31,6 +31,7 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 ![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 
