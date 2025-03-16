@@ -11,7 +11,7 @@ I aspire to be a one of the greatest software developer/programmer. I love doing
 
 ### 🤝 Connect with me:
 <a href="https://linkedin.com/in/vrishab-shetty/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vrishab Shetty | LinkedIn" width="21px"/></a>
-<a href="mailto:vrishabshetty@gmai.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vrishab Shetty | Mail" width="21px" /></a>;
+<a href="mailto:vrishabshetty@gmai.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vrishab Shetty | Mail" width="21px" /></a>
   
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
