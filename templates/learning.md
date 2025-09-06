@@ -1,0 +1,2 @@
+- Design Patterns 
+- Networking related to sockets

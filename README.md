@@ -13,11 +13,15 @@ I'm a passionate software engineer focused on building scalable backend systems 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
+<!-- WORKING_ON_START -->
 - A KDEConnect-like application
+<!-- WORKING_ON_END -->
 
 ## 🌱 I'm currently learning
+<!-- LEARNING_START -->
 - Design Patterns 
 - Networking related to sockets
+<!-- LEARNING_END -->
 
 ## 💼 Technical Skills
 
@@ -53,7 +57,7 @@ I'm a passionate software engineer focused on building scalable backend systems 
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
 ## 📂 Projects
-
+<!-- PROJECTS_START -->
 ### Auction Backend
 Developed RESTful APIs using Java Spring Boot with an in-memory H2 database. This project involved containerizing services with Docker, setting up a CI/CD pipeline via GitHub Actions for seamless deployments, and overseeing the entire software development lifecycle. A Test-Driven Development (TDD) approach was implemented with JUnit 4 and Mockito to maintain high code quality.
 
@@ -62,6 +66,7 @@ Provisioned and managed cloud infrastructure on AWS/GCP using Terraform modules.
 
 ### ReSSSipes
 Engineered a backend using Node.js and MongoDB, focusing on query optimization for better performance. The front-end was built with React to support live, collaborative recipe editing. The application also integrated PassportJS for secure authentication and included an admin dashboard for effective content moderation.
+<!-- PROJECTS_END -->
 
 ## 🏆 Achievements
 - **Competitive Coding**: Active on LeetCode, Codeforces and CodeChef.
